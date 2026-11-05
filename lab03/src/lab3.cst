@@ -1,0 +1,12 @@
+// FAP201 - Lab03
+// Stateful LED - Toggle on Switch Release
+// Target: GW5A-LV25UG324C2/11
+
+// System clock
+IO_LOC "clk" T9;
+
+// KEY0
+IO_LOC "i_sw" B16;
+
+// LED0
+IO_LOC "o_led" D14;
